@@ -3,6 +3,7 @@
 import numpy as np
 from keras.preprocessing import image
 from keras.applications import vgg16
+import matplotlib.pyplot as plt
 import cv2
 import os, os.path
 
